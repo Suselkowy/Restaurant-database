@@ -1,0 +1,16 @@
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (13, N'Burgery');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (5, N'Desery');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (12, N'Kawy i herbaty');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (15, N'Kebab');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (11, N'Koktajle');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (7, N'Makarony');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (10, N'Miesne');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (2, N'Napoje');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (8, N'Owoce morza');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (1, N'Pieczywo');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (4, N'Pizza');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (3, N'Przystawki');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (6, N'Salatki');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (14, N'Tortilla');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (9, N'Wegetarianskie');
+INSERT INTO u_sus.dbo.Category (CategoryID, CategoryName) VALUES (16, N'Zupy');

@@ -1,0 +1,8 @@
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (1, N'2022-03-01 10:00:00.000', N'2022-03-01 14:00:00.000', 2, 1);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (2, N'2022-05-07 09:00:00.000', N'2022-05-07 11:00:00.000', 4, 2);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (3, N'2022-08-20 15:00:00.000', N'2022-08-20 17:00:00.000', 3, 3);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (4, N'2022-09-15 12:00:00.000', N'2022-09-15 14:00:00.000', 7, 4);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (5, N'2022-11-02 10:00:00.000', N'2022-11-02 11:00:00.000', 3, null);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (6, N'2023-01-10 09:30:00.000', N'2023-01-10 11:30:00.000', 30, 9);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (7, N'2023-01-10 10:30:00.000', N'2023-01-10 11:30:00.000', 10, 7);
+INSERT INTO u_sus.dbo.Reservation (ReservationID, ReservationStartDate, ReservationEndDate, ReservationGuestNumber, EmployeeID) VALUES (8, N'2023-01-07 20:00:00.000', N'2023-01-07 22:00:00.000', 6, null);

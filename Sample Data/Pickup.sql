@@ -1,0 +1,12 @@
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (2, N'2023-01-03 10:00:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (3, N'2023-01-03 12:00:00.000', 0);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (4, N'2023-01-03 09:00:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (5, N'2023-01-04 11:00:00.000', 0);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (6, N'2023-01-04 11:30:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (11, N'2023-01-09 11:30:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (12, N'2023-01-08 13:00:00.000', 0);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (13, N'2023-01-08 13:30:00.000', 0);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (14, N'2023-01-07 21:00:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (15, N'2023-01-07 21:30:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (16, N'2023-01-07 21:30:00.000', 1);
+INSERT INTO u_sus.dbo.Pickup (PickupID, PickupDate, Picked) VALUES (17, N'2023-01-08 12:30:00.000', 1);

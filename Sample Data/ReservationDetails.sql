@@ -1,0 +1,10 @@
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (2, 1, 1, N'Urodziny');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (3, 2, 2, N'Wesele');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (4, 3, 3, N'Komunia');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (5, 4, 4, N'Chciny');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (6, 5, 5, N'Rocznica');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (7, 6, 31, N'Monika');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (8, 6, 32, N'Monika');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (9, 6, 33, N'Monika');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (10, 7, 10, N'Aleksandra');
+INSERT INTO u_sus.dbo.ReservationDetails (ReservationDetailsID, ReservationID, TableID, ReservationName) VALUES (11, 8, 23, N'Basia');

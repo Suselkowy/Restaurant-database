@@ -1,0 +1,17 @@
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (1, N'Jan Kowalski');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (2, N'Anna Nowak');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (3, N'Andrzej Wisniewski');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (4, N'Katarzyna Wojciechowska');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (5, N'Piotr Lewandowski');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (6, N'Marta Dabrowska');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (7, N'SuskiCompany');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (8, N'Muszyna');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (9, N'Cisowianka');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (10, N'Naleczowianka');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (11, N'Pepsi');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (12, N'Sprite');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (13, N'Fanta');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (14, N'Coca cola');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (15, N'Razer');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (16, N'Dell');
+INSERT INTO u_sus.dbo.Clients (Client_ID, ClientName) VALUES (17, N'Jakub Sus');

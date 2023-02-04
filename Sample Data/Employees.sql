@@ -1,0 +1,9 @@
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (1, N'Maciek Skoczylas', N'135213567', N'skoczylas@wp.pl', N'Poland');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (2, N'Anna Kowalska', N'123654123', N'kowalska@wp.pl', N'Poland');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (3, N'Marek Nowak', N'123456789', N'nowak@gmail.com', N'Poland');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (4, N'Alice Thompson', N'987654321', N'thompson@yahoo.com', N'USA');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (5, N'Beata Nowak', N'784512369', N'nowakb@gmail.com', N'Poland');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (6, N'Tomasz Kowalczyk', N'963852741', N'kowalczyk@gmail.com', N'Poland');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (7, N'David Johnson', N'852369147', N'johnson@yahoo.com', N'USA');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (8, N'Julia Smutek', N'159753246', N'smutek@gmail.com', N'Poland');
+INSERT INTO u_sus.dbo.Employees (EmployeeID, Name, Phone, Email, Country) VALUES (9, N'Carla Williams', N'321654987', N'williams@hotmail.com', N'USA');
